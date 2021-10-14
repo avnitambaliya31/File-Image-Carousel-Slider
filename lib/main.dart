@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:image_slide_show/carousel_page.dart';
 import 'package:image_slide_show/home_page.dart';
 
 void main() {
